@@ -29,7 +29,6 @@ Star.prototype = {
 }
 
 var canvas = document.getElementById("canvas");
-var context = canvas.getContext("2d");
 
 var C_WIDTH = canvas.width = document.body.offsetWidth;
 var C_HEIGHT = canvas.height = document.body.offsetHeight;
